@@ -3,7 +3,7 @@
 #user added
 /build*/*
 
-*.user
+/CMakeLists.txt.user
 
 *~
 *.autosave
