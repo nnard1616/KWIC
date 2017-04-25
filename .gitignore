@@ -1,5 +1,8 @@
 # This file is used to ignore files which are generated
 # ----------------------------------------------------------------------------
+#user added
+/build*/*
+*.txt.user
 
 *~
 *.autosave
@@ -71,6 +74,4 @@ Thumbs.db
 *.dll
 *.exe
 
-#user added
-/build*/*
-*.txt.user
+
