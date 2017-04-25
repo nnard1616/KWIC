@@ -1,3 +1,0 @@
-/home/nathan/Documents/Programming/C++/Practice/KWIC/build-KWIC-Clang64-Default/CMakeFiles/rebuild_cache.dir
-/home/nathan/Documents/Programming/C++/Practice/KWIC/build-KWIC-Clang64-Default/CMakeFiles/edit_cache.dir
-/home/nathan/Documents/Programming/C++/Practice/KWIC/build-KWIC-Clang64-Default/CMakeFiles/KWIC.dir
